@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "reignforests/reignforests.github.io",
+    "data-repo": "forestwzhang/forestwzhang.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
