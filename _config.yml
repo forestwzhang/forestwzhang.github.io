@@ -663,3 +663,10 @@ jsonresume:
   - languages
   - interests
   - references
+
+# Navigation bar configuration
+navbar:
+  - title: "Home"
+    url: "/"
+  - title: "Publications"
+    url: "/publications/"
