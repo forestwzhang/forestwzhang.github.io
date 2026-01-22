@@ -17,11 +17,11 @@ nav_order: 2
 
 ## Manuscripts
 <div class="publications">
-  {% bibliography --query "@*[category=manuscript]" %}
+
 </div>
 
 ## Publications
 
 <div class="publications">
-  {% bibliography --query @*[category="published"] %}
+
 </div>
