@@ -10,18 +10,6 @@ nav_order: 2
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
-## Working Papers
 <div class="publications">
   {% bibliography %}
-</div>
-
-## Manuscripts
-<div class="publications">
-
-</div>
-
-## Publications
-
-<div class="publications">
-
 </div>
