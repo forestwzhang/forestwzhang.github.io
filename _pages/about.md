@@ -26,7 +26,7 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am currently a research assistant working with Ke Wu at the University of Michigan. My research interests lie in at intersection of ***theoretical computer science*** and ***game theory***, particularly ***mechanism design***.
+I am currently a research assistant working with Ke Wu at the University of Michigan. My research interests lie at intersection between ***theoretical computer science*** and ***game theory***, particularly ***mechanism design***.
 
 I recently completed my M.S. and B.S. in Computer Science at the University of Michigan College of Engineering, where I worked with Ke Wu and Greg Bodwin.
 
