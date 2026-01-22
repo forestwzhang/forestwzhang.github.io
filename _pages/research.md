@@ -12,7 +12,7 @@ nav_order: 2
 <!-- Bibsearch Feature -->
 ## Working Papers
 <div class="publications">
-  {% bibliography --query @*[category="working"] %}
+  {% bibliography %}
 </div>
 
 ## Manuscripts
