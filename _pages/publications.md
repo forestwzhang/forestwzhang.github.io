@@ -15,9 +15,16 @@ nav_order: 2
   {% bibliography --query @*[category="working"] %}
 </div>
 
+## Manuscripts
+<div class="publications">
+  {% bibliography --query @*[category="manuscript"] %}
+</div>
+
 {% include bib_search.liquid %}
 
 <div class="publications">
+  {% bibliography --query @*[category="published"] %}
+</div>
 
 {% bibliography %}
 
