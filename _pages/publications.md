@@ -10,6 +10,10 @@ nav_order: 2
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
+## Working Papers
+<div class="publications">
+  {% bibliography --query @*[category="working"] %}
+</div>
 
 {% include bib_search.liquid %}
 
