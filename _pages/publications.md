@@ -25,7 +25,3 @@ nav_order: 2
 <div class="publications">
   {% bibliography --query @*[category="published"] %}
 </div>
-
-{% bibliography %}
-
-</div>
