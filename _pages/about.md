@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-  <p>Contact: forestz at umich dot edu</p>
+    <p>Contact: forestz at umich dot edu</p>
 
 # <p>555 your office number</p>
 # <p>123 your address street</p>
