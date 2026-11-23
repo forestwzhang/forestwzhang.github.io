@@ -29,7 +29,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student in Computer Science at Northwestern University’s McCormick School of Engineering. My research in theoretical computer science focuses on algorithmic game theory, mechanism design, and how decentralized systems learn, coordinate, and withstand adversarial behavior.
+I am a first-year Ph.D. student in Computer Science at Northwestern University’s McCormick School of Engineering. My research interests lie in algorithmic game theory, mechanism design, and the design of decentralized systems involving strategic or adversarial behavior. I am also interested in the interplay between learning algorithms, incentives, and collective decision-making.
 
 I earned an M.S.E. in Computer Science and a B.S.E. in Computer Science with honors and a minor in mathematics from the University of Michigan, where I worked with Ke Wu and Greg Bodwin.
 
