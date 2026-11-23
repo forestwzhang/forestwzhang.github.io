@@ -28,8 +28,9 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am currently a research assistant working with Ke Wu at the University of Michigan. My research interests lie at intersection between ***theoretical computer science*** and ***game theory***, particularly ***mechanism design***.
 
-I recently completed my M.S. and B.S. in Computer Science at the University of Michigan College of Engineering, where I worked with Ke Wu and Greg Bodwin.
+I am a Ph.D. student in Computer Science at Northwestern University’s McCormick School of Engineering. My research in theoretical computer science focuses on algorithmic game theory, mechanism design, and how decentralized systems learn, coordinate, and withstand adversarial behavior.
 
-My CV is available [here](/assets/pdf/Forest_Zhang_CV.pdf).
+I earned an M.S.E. in Computer Science and a B.S.E. in Computer Science with honors and a minor in mathematics from the University of Michigan, where I worked with Ke Wu and Greg Bodwin.
+
+[Download my CV](/assets/pdf/Forest_Zhang_CV.pdf).
